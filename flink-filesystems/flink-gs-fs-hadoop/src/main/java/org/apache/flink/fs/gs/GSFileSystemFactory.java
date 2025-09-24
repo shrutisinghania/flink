@@ -23,7 +23,6 @@ import org.apache.flink.configuration.Configuration;
 import org.apache.flink.core.fs.FileSystem;
 import org.apache.flink.core.fs.FileSystemFactory;
 import org.apache.flink.fs.gs.utils.ConfigUtils;
-import org.apache.flink.shaded.guava33.com.google.common.collect.ImmutableMap;
 import org.apache.flink.util.Preconditions;
 
 import org.apache.flink.shaded.guava33.com.google.common.collect.ImmutableMap;
